@@ -1,7 +1,7 @@
 # Hiroki Maruyama 
 
 I'm a high school student, exploring Computer Science. 
-I will be sharing my journey and learning in technology. 
+I will be sharing my journey and learning in technology.  <br/>
 Founder of AI & Cultural Exchange Club.
 
 LinkedIn: [MoreAboutMe](www.linkedin.com/in/hiroki-maruyama) <br/>
