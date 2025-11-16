@@ -1,4 +1,4 @@
-# Hi I'm Hiroki Maruyama 
+# Hiroki Maruyama 
 
 I'm a high school student, exploring Computer Science. 
 I will be sharing my journey and learning in technology. 
