@@ -1,4 +1,4 @@
-### Hi I'm Hiroki Maruyama 
+# Hi I'm Hiroki Maruyama 
 
 I'm a high school student, exploring Computer Science. 
 I will be sharing my journey and learning in technology. 
@@ -7,12 +7,23 @@ Founder of AI & Cultural Exchange Club.
 LinkedIn: [MoreAboutMe](www.linkedin.com/in/hiroki-maruyama) <br/>
 AI Club: [Insta](https://www.instagram.com/hhsai_club?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr)<br/>
 
-<!--Github Stats from https://github.com/anuraghazra/github-readme-stats-->
 [![Hiroki's github stats](https://github-readme-stats.vercel.app/api?username=hiromaruyama&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=hiromaruyama&theme=dark&hide_border=false)<br/>
 
+<!--Github Stats from https://github.com/anuraghazra/github-readme-stats-->
+
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=hiromaruyama&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
-Other helpful sources: https://youtu.be/DWFs6aqknqw?si=Ytxl-TmWFUJsaRLV
+Other helpful sources: 
+- https://youtu.be/DWFs6aqknqw?si=Ytxl-TmWFUJsaRLV
+- https://github.com/Ileriayo/markdown-badges
 -----
 [Example template from Github]
 **hiromaruyama/hiromaruyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
