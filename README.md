@@ -7,8 +7,6 @@ Founder of AI & Cultural Exchange Club.
 LinkedIn: [MoreAboutMe](https://www.linkedin.com/in/hiroki-maruyama) <br/>
 AI Club: [Insta](https://www.instagram.com/hhsai_club?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr)<br/>
 
-[![Hiroki's github stats](https://github-readme-stats.vercel.app/api?username=hiromaruyama&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-![](https://nirzak-streak-stats.vercel.app/?user=hiromaruyama&theme=dark&hide_border=false)<br/>
 
 <!--Github Stats from https://github.com/anuraghazra/github-readme-stats-->
 
