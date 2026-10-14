@@ -1,6 +1,6 @@
 # Hiroki Maruyama 
 
-I'm a high school student, exploring Computer Science. 
+I'm a freshman @ UC Berkeley, studying  Computer Science.
 I will be sharing my journey and learning in technology.  <br/>
 Founder of AI & Cultural Exchange Club.
 
